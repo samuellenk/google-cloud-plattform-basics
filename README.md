@@ -1,1 +1,1 @@
-# google-cloud-plattform-basics
+# Exercise Files for google-cloud-plattform-basics course
