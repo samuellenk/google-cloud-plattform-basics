@@ -1,1 +1,3 @@
-# Exercise Files for google-cloud-plattform-basics course
+# google-cloud-plattform-basics
+
+Diese Repo enthält die zum Kurs gehörigen Übungs-Dateien
