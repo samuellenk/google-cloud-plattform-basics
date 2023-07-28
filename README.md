@@ -1,3 +1,3 @@
 # google-cloud-plattform-basics
 
-Diese Repo enthält die zum Kurs gehörigen Übungs-Dateien
+Dieses Repository enthält die zum Kurs [Google Cloud Plattform - Grundlagen](https://www.udemy.com/course/google-cloud-plattform/?referralCode=E075BCAD8510454DCEF9) gehörenden Übungs-Dateien
